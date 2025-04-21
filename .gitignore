@@ -1,0 +1,14 @@
+.idea
+
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+pubspec.lock
+res/
+lib/generated/
+lib/*.jar
